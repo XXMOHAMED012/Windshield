@@ -830,7 +830,7 @@ ul{
 
 .footer .container .box .links li a::before{
     font-family: "Font Awesome 5 Free";
-    content: "\f21a";
+    content: "\f1b9";
     font-weight: 900;
     margin-right: 10px;
     color: var(--main-color);
