@@ -1,2 +1,0 @@
-# Windshield
-Windshield Freelancer Project
